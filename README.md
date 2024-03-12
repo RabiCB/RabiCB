@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Chandra a Frontend Developer
+### I'm Chandra Bhandari a Frontend Developer
 
 
 
