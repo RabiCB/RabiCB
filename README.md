@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chandra Bhandari and I'm a Frontend Developer, from Nepal</h2>
+<h2 align="left">Hi 👋! I am Chandra Bhandari(Rabi) and I'm a Frontend Developer, from Nepal</h2>
 
 ###
 
