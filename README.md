@@ -47,10 +47,10 @@ I'm passionate about writing on a wide array of topics related to frontend devel
 
 ### Latest Articles:
 
-- [React vs Next js: Pros and Cons of react js and next js](https://geekdev.netlify.app/blog/react-js-vs-next-js)
-- [Understanding what is sveltekit: explore what is sveltekit](https://geekdev.netlify.app/blog/svelte)
-- [server side rendering and client side rendering: server side and client side comparision](https://geekdev.netlify.app/blog/server-side-rendering-vs-client-side-rendering)
-- [Html and css: overview of what html and css ](https://geekdev.netlify.app/blog/html-and-css)
+- [React vs Next js: Pros and Cons of react js and next js](https://chandra-bhandari.com.np/blog/react-js-vs-next-js-which-framework-to-choose-for-front-end-in-2024)
+- [Understanding what is sveltekit: explore what is sveltekit](https://chandra-bhandari.com.np/blog/svelte-modern-framework)
+- [server side rendering and client side rendering: server side and client side comparision](https://chandra-bhandari.com.np/blog/server-side-rendering-vs-client-side-rendering-which-is-better)
+- [Html and css: overview of what html and css ](https://chandra-bhandari.com.np/blog/html-and-css)
 
 <div align="left">
   <a href="https://www.instagram.com/iam.rabin/" target="_blank">
